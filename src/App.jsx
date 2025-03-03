@@ -2,7 +2,7 @@ import "./App.css";
 import Title from "./components/Title";
 import Section from "./components/Section";
 import TextComp from "./components/TextComp";
-import { calucateFloor, calculateTimesTwo } from "./utils/calculator";
+// import { calucateFloor, calculateTimesTwo } from "./utils/calculator";
 
 function App() {
   return (
